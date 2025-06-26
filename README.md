@@ -95,8 +95,8 @@ By building this project, you will:
 
 3. **Open index.html in any browser (no server needed)**:
 
-    - Just double-click the file
-    - Or right-click → "Open With" → your browser
+    - Just double-click the file OR
+    - Right-click → "Open With" → your browser
 
 ---
 
