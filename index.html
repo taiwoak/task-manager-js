@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Task Manager</h1>
+    <input type="text" id="taskInput" placeholder="Enter a task">
+    <button onclick="addTask()">Add Task</button>
+    <button onclick="sortTasks()">Sort</button>
+    <button onclick="reverseTasks()">Reverse</button>
+    <br/><br/>
+    <input type="text" id="searchInput" placeholder="Search task..." oninput="searchTasks()">
+    <br/><br/>
+    <input type="text" id="findInput" placeholder="Find exact task...">
+    <button onclick="findTask()">Find Task</button>
+    <ul id="taskList"></ul>
+    <p id="summary"></p>
+    <script src="app.js"></script>
+</body>
+</html>
