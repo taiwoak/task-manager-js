@@ -56,11 +56,13 @@ This project is **designed for learning**, and demonstrates how to use the follo
 
 ## 🧱 Project Structure
 
+```bash
 task-manager/
 │
 ├── index.html # Page layout and structure
 ├── style.css # Basic UI styling
 └── app.js # All JavaScript logic and interactivity
+```
 
 ---
 
@@ -121,9 +123,12 @@ Want to improve this project?
 
 ## ✍️ Author
 
-Taiwo Akerele
+**Taiwo Akerele**
+
 Feel free to fork, improve, or share this project with other learners! 😊
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/taiwoakerele) or [Twitter](https://www.x.com/td_akerele)
+
 Shoot me a mail [here](mailto:taiwoakerele98@gmail.com)
 
 ---
